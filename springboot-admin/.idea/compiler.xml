@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-admin" />
+        <module name="springboot-admin-client1" />
+        <module name="springboot-admin-client2" />
+        <module name="springboot-admin-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
