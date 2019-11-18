@@ -126,9 +126,9 @@
     <!-- 自定义LogDBAppender 拓展DBAppenderBase -->
     <appender name="DB_APPENDER" class="ch.qos.logback.classic.db.DBAppender">
         <!-- 自定义LogbackMarkerFilter 拓展AbstractMatcherFilter-->
-        <filter class="ch.qos.logback.classic.filter.LevelFilter"><!-- 打印INFO日志 -->
-            <level>INFO</level>
-
+        <filter class="com.lxf.logback.config.LogbackMarkerFilter"><!-- 打印INFO日志 -->
+            　<!-- 自定义标志 -->
+            　<marker>DB</marker>
             <onMatch>ACCEPT</onMatch>
             <onMismatch>DENY</onMismatch>
         </filter>

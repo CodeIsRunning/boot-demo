@@ -20,7 +20,7 @@ public class LogbackMarkerFilter extends AbstractMatcherFilter<ILoggingEvent> {
         if (null != this.markerToMatch) {
             super.start();
         } else {
-            addError(" no MARKER yet !");
+            addError(" no MARKER !");
         }
     }
 
