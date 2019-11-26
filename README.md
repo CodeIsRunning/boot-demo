@@ -32,3 +32,7 @@ Welcome to the boot-demo wiki!
 [spring boot 之 把项目打包成war包](https://mp.weixin.qq.com/s?__biz=MzIxMTExMjgyNQ==&mid=2247483784&idx=1&sn=81c53c79ebb9f57f6d54f330ec2e7e4e&chksm=975b079ea02c8e885d01bdf045635ba0a0e44517a12811732c6a19e0d85bf118c1bc2a4105b1&token=461097867&lang=zh_CN#rd) [git地址](https://github.com/CodeIsRunning/boot-demo/tree/master/war-demo)
 
 [spring boot 之 解决跨域的两种姿势](https://mp.weixin.qq.com/s?__biz=MzIxMTExMjgyNQ==&mid=2247483785&idx=1&sn=ca529034bd7a824ba2a0af7d7d15ef95&chksm=975b079fa02c8e890978a19b4b0b1c8687ad0cbd0c042e4da46f140c6f1c14d4dcc606a0e53d&token=461097867&lang=zh_CN#rd) [git地址](https://github.com/CodeIsRunning/boot-demo/tree/master/cross-demo)
+
+[Spring boot 日志 之 logback(一)](https://mp.weixin.qq.com/s?__biz=MzIxMTExMjgyNQ==&mid=2247483811&idx=1&sn=8a4c64f34d95af2fc68eccc8e6a0db61&chksm=975b07b5a02c8ea3fae051c964d52e585fe41849751b5f647ee4b42d8a89d9a243101979b0cd&token=1670758828&lang=zh_CN#rd)
+
+[Spring boot 日志之logback（二）](https://mp.weixin.qq.com/s?__biz=MzIxMTExMjgyNQ==&mid=2247483812&idx=1&sn=3977a7108fd67f48b05aa672ba072b82&chksm=975b07b2a02c8ea4605e885f9cf076dbb1d13578a29ae2fd71da1eaa537d043c508ed5ee1206&token=1670758828&lang=zh_CN#rd) [git地址](https://github.com/CodeIsRunning/boot-demo/tree/master/logback-demo)
