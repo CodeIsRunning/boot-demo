@@ -36,3 +36,5 @@ Welcome to the boot-demo wiki!
 [Spring boot 日志 之 logback(一)](https://mp.weixin.qq.com/s?__biz=MzIxMTExMjgyNQ==&mid=2247483811&idx=1&sn=8a4c64f34d95af2fc68eccc8e6a0db61&chksm=975b07b5a02c8ea3fae051c964d52e585fe41849751b5f647ee4b42d8a89d9a243101979b0cd&token=1670758828&lang=zh_CN#rd)
 
 [Spring boot 日志之logback（二）](https://mp.weixin.qq.com/s?__biz=MzIxMTExMjgyNQ==&mid=2247483812&idx=1&sn=3977a7108fd67f48b05aa672ba072b82&chksm=975b07b2a02c8ea4605e885f9cf076dbb1d13578a29ae2fd71da1eaa537d043c508ed5ee1206&token=1670758828&lang=zh_CN#rd) [git地址](https://github.com/CodeIsRunning/boot-demo/tree/master/logback-demo)
+
+[spring boot 之 支付宝支付](https://mp.weixin.qq.com/s?__biz=MzIxMTExMjgyNQ==&mid=2247483820&idx=1&sn=3693e2262f10cf3c5739e3f78a7868c7&chksm=975b07baa02c8eacb57708c3a54b250d62a36c51d2c08ad61400e6368f652d2b2ac6ee0e01c8&token=1000630942&lang=zh_CN#rd)  [git地址](https://github.com/CodeIsRunning/boot-demo/tree/master/alipay-demo)
